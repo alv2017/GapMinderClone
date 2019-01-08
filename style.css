@@ -1,0 +1,17 @@
+body {
+	font-size: 16px;
+}
+.chart h2 {
+	text-align: center;
+	color: #3e3e3e;
+	font-size: 2.5rem;
+	font-weight: normal;
+	margin: 10px auto;
+	padding: 0;
+}
+#chart-area {
+	display: flex;
+	justify-content: center;
+	font-family: sans-serif;
+	align: center;
+}
